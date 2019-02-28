@@ -7,7 +7,7 @@ printf("enter the times");
 scanf("%d",&n);
 for(i=0;i<n;i++)
 {
-printf("\n HELLO");
+printf("HELLO");
 }
 getch();
 }
